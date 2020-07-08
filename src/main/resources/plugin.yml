@@ -8,7 +8,7 @@ api-version: "1.13"
 commands:
   superbvote:
     description: SuperbVote main command.
-    aliases: [sv]
+    aliases: [votes]
   vote:
     description: SuperbVote vote command.
 permissions:
